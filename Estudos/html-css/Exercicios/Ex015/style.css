@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+
+body{
+  background-image: linear-gradient(to right, rgba(82, 199, 36, 0.685), rgb(2, 162, 255));
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  h1{
+    color: rgba(241, 241, 240, 0.979);
+  }
+
+    h2{
+      color: rgba(75, 74, 83, 0.493);
+    }
+
+    p{
+      text-align: justify;
+    }
